@@ -1,6 +1,9 @@
 🚀 Event Poster
 </br>
-![ ](Getting Started with Azure and ML_page-0001.jpg)
+![](Poster.jpg)
+</br>
+</br>
+
 
 🎥 Video Walkthrough
 
