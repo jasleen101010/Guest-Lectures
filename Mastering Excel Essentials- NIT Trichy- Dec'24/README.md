@@ -9,4 +9,4 @@
 
 Check out my YouTube video for a detailed walkthrough of this content:
 </br>
-👉 [Watch the Video Here]([https://youtu.be/u-ynfLj1jQs])
+👉 [Watch the Video Here](https://youtu.be/u-ynfLj1jQs)
